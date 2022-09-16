@@ -26,3 +26,13 @@ I will also check some general information about this data, sort of like a contr
 Normally, I think I would have a general idea of where my data came from and if it might be biased. However, in this project I don't know who or how this data was gathered, I just have a CSV of data I'm going to analyze. Maybe I missed some explanation of where this dataset came from??
 
 Either way, I was given no guidance on what to analyze, besides the first four points which were suggested in a hint by the project.
+
+
+Goals:
+To learn more about data analysis by completing this project. I will analyze the data to find the answer to the above questions.
+
+Data:
+The insurance.csv file included with this repository. It was provided to me by the Codecademy project.
+
+Analysis:
+I will analyze the data to find the information I noted above. There are 11 bullets in the list at time of scoping. I don't want to add too many and scope creep this. I might have already done that.

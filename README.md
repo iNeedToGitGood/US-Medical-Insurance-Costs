@@ -17,8 +17,7 @@ I will also look to find the below, because I am curious about it:
   - Do men or women smoke more? I think it is men
   - Average BMI of smokers vs non-smokers
 
-I will also check some general information about this data, sort of like a control. This is because I do not know if this subset of data is a representation of the wider population. Maybe this data subset is primarily people with children, or primarily people who are smokers, or primarily people who are over 50, etc.
-  - Average Age
+I will also check some general information about this data, sort of like a control. This is because I do not know if this subset of data is a representation of the wider population. Maybe this data subset is primarily people with children, or primarily people who are smokers, or primarily male, etc.
   - Number of people with kids vs no kids
   - % of Male vs Female
   - % of smokers
@@ -35,4 +34,7 @@ Data:
 The insurance.csv file included with this repository. It was provided to me by the Codecademy project.
 
 Analysis:
-I will analyze the data to find the information I noted above. There are 11 bullets in the list at time of scoping. I don't want to add too many and scope creep this. I might have already done that.
+I will analyze the data to find the information I noted above. There are 10 bullets in the list at time of scoping. I don't want to add too many and scope creep this. I might have already done that.
+
+
+git version control will catch all the changes I've made to this, I guess its not good to leave notes that you might wish you didn't leave. I realized the first thing the project suggested I do is analyze average age, so my bright idea of checking average age in my last grouping of controls was brilliant!
